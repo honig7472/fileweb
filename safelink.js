@@ -23,7 +23,7 @@ var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
 if(x=="1"){xxx="a-guide-to-personalizing-cell-phones.html"}
 if(x=="2"){xxx="work-at-home-based-business.html"}
-if(x=="3"){xxx="fast-money.html"}
+if(x=="3"){xxx="the-merits-of-using-cell-phones-for-business.html"}
 if(x=="4"){xxx="discover-how-to-make-money-from-home.html"}
 if(x=="5"){xxx="how-to-make-working-from-home-success.html"}
 if(x=="6"){xxx="how-to-choose-mobile-phone-wholesaler.html"}
