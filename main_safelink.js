@@ -30,7 +30,7 @@ if(x=="6"){xxx="01/how-to-choose-mobile-phone-wholesaler.html"}
 if(x=="7"){xxx="01/how-to-make-money-with-mobile-phones.html"}
 if(x=="8"){xxx="01/how-to-unlock-your-iphone.html"}
 if(x=="9"){xxx="01/auto-insurance-and-leasing.html"}
-if(x=="10"){xxx="how-to-calculate-your-lease-payment.html"}a_to_ve[i].href="https://securelink.electronicmagz.com/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="01/how-to-calculate-your-lease-payment.html"}a_to_ve[i].href="https://securelink.electronicmagz.com/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
